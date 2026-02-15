@@ -1,0 +1,60 @@
+/*REDDIT ESTILO MATRIX*/
+
+body {
+    background-color: #000000 !important;
+    color: #00ff00 !important;
+    font-family: 'Courier New', monospace !important;
+}
+
+/*TEXTOS*/
+* {
+    color: #00ff00 !important;
+}
+
+/*LINKS*/
+a {
+    color: #33ff33 !important;
+    text-shadow: 0 0 5px #00ff00 !important;
+}
+
+a:hover {
+    color: #ffffff !important;
+    background-color: #00ff00 !important;
+}
+
+/*POSTS*/
+div[data-testid="post-container"],
+shreddit-post {
+    background-color: #001100 !important;
+    border: 2px solid #00ff00 !important;
+    box-shadow: 0 0 10px rgba(0, 255, 0, 0.3) !important;
+}
+
+/*BOTONES*/
+button {
+    background-color: #00ff00 !important;
+    color: #000000 !important;
+    border: none !important;
+}
+
+/*SIDEBAR*/
+aside,
+div[slot="right-sidebar"] {
+    background-color: #001100 !important;
+    border-left: 2px solid #00ff00 !important;
+}
+
+/*HEADER*/
+header,
+shreddit-app-header {
+    background-color: #003300 !important;
+    border-bottom: 2px solid #00ff00 !important;
+}
+
+/*CAMPOS DE ENTRADA*/
+input,
+textarea {
+    background-color: #001100 !important;
+    color: #00ff00 !important;
+    border: 1px solid #00ff00 !important;
+}

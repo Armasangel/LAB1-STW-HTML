@@ -119,6 +119,25 @@ START
     └─> Weapons → Search/Drive → Good/Neutral
 ```
 
+
+## RICING - Reddit Matrix Theme
+
+### Before:
+![Reddit Before](screenshots/reddit-before.png)
+
+### After:
+![Reddit After](screenshots/reddit-after.png)
+
+
+## STYLING MY GAME
+
+### Before:
+![Game Before](screenshots/game-before.png)
+
+### After:
+![Game After1](screenshots/game-after1.png)
+![Game After2](screenshots/game-after2.png)
+
 ## Story Features
 
 - **Multiple Paths**: 11 unique HTML pages with different scenarios
